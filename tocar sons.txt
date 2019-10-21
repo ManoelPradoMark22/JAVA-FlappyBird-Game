@@ -1,0 +1,5 @@
+https://github.com/libgdx/libgdx/wiki/Sound-effects
+
+Sound som = Gdx.audio.newSound(Gdx.files.internal("som.mp3"));//aqui irá carregar o som
+long id = som.play(1.0f);//irá executar o som e retornar um identificado do som
+som.stop(id);//poderá parar o som, quando necessário

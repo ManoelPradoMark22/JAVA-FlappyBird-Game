@@ -1,0 +1,3 @@
+setar largura e altura automatica de acordo o tamanho da tela
+os parametros 4 e 5 sao referentes a isso
+batch.draw(fundo, 0,0, Gdx.graphics.getWidth(),Gdx.graphics.getHeight());

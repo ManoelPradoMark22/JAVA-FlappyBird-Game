@@ -1,0 +1,4 @@
+AndroidManifest.xml
+
+android:screenOrientation="landscape" (horizontal)
+android:screenOrientation="portrait" (vertical)
